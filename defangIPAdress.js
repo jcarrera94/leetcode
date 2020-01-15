@@ -28,3 +28,5 @@ const defangIPaddr = function(address) {
   }
   return res;
 };
+
+console.log(defangIPaddr('1.1.1.1'));
